@@ -1,5 +1,8 @@
+![logo](https://github.com/Khizar-14/Khizar-Hussain14/blob/main/Data%20banner.png)
 <h1 align="center">Hi 👋, I'm Khizar Hussain</h1>
 <h3 align="center">"Embarking on the Data Science Journey: A Fresh Perspective"</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khizar-14&label=Profile%20views&color=0e75b6&style=flat" alt="khizar-14" /> </p>
 
 - 🌱 I’m currently learning Data Science **GUVI IIT-M**
 
